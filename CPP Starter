@@ -12,6 +12,9 @@
    Inputs Needed:  name of employee
    Processing Required:  sorting and searching algorithms
    Outputs Generated:  if the name is on the list
+   
+   You will need a list of names that have the format
+   Smith, John
 */
 
 #include <iostream>
